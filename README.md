@@ -1,4 +1,4 @@
-# PyNOD
+# PyNodeEval
 
 A directed acyclic graph image renderer written in Python.
 
